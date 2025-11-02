@@ -1,5 +1,11 @@
 # 3D Prostate MRI Segmentation Using the Improved UNet3D Model
 
+ ### Commit
+ The commit that I have done are mostly in my personal github pages: https://github.com/ferdinandraja/tespattern3.git
+but after commit, the git always ended up in a fatal error:<img src="Screenshot 2025-11-02 at 2.57.43 pm.png">
+here are my commits in my own github:
+<img src="Screenshot 2025-11-02 at 3.14.02 pm.png">
+
 ## Overview
 This project implements a 3D Improved UNet model for the semantic segmentation of prostate MRI volumes from the HipMRI Study dataset.  
 The goal is to accurately segment anatomical structures, achieving a Dice Similarity Coefficient (DSC) of at least 0.75 on the test set.  
@@ -198,5 +204,4 @@ The model demonstrates excellent spatial consistency and captures the prostate r
 ## Conclusion
 
 The **3D Improved UNet** successfully segments prostate MRI volumes with **high accuracy** and **minimal overfitting**.  
-The commit that I have done are mostly in my personal github pages: https://github.com/ferdinandraja/tespattern3.git
-but after commit, the git always ended up in a fatal error:<img src="Screenshot 2025-11-02 at 2.57.43 pm.png">
+
