@@ -198,4 +198,5 @@ The model demonstrates excellent spatial consistency and captures the prostate r
 ## Conclusion
 
 The **3D Improved UNet** successfully segments prostate MRI volumes with **high accuracy** and **minimal overfitting**.  
-The commit that I have done are mostly in my personal github pages: 
+The commit that I have done are mostly in my personal github pages: https://github.com/ferdinandraja/tespattern3.git
+but after commit, the git always ended up in a fatal error:<img src="Screenshot 2025-11-02 at 2.57.43 pm.png">
